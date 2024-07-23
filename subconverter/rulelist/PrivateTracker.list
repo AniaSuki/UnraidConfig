@@ -1,5 +1,6 @@
 # 内容：PrivateTracker
 # 数量：122条
+SRC-IP-CIDR,192.168.0.86/32,DIRECT
 DOMAIN-KEYWORD,announce
 DOMAIN-KEYWORD,torrent
 DOMAIN-KEYWORD,tracker
