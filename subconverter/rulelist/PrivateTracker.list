@@ -1,6 +1,6 @@
 # 内容：PrivateTracker
 # 数量：122条
-SRC-IP-CIDR,192.168.0.86/32,DIRECT
+SRC-IP-CIDR,192.168.0.86/32
 DOMAIN-KEYWORD,announce
 DOMAIN-KEYWORD,torrent
 DOMAIN-KEYWORD,tracker
@@ -76,5 +76,4 @@ DOMAIN-SUFFIX,thegeeks.click
 DOMAIN-SUFFIX,tjupt.org
 DOMAIN-SUFFIX,totheglory.im
 DOMAIN-SUFFIX,tv-vault.me
-DOMAIN-SUFFIX,u2.dmhy.org
 DOMAIN-SUFFIX,uhdbits.org
